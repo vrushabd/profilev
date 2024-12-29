@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/vrushabh-baravkar">Vrushabh</a>!</h1>
 <p align="center">
-  <a href="https://yuna0x0.com">
+  <a href="https://www.linkedin.com/in/vrushabh-baravkar">
     <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
   </a>
 </p>
