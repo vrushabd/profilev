@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rubox.in">
-    <img src="sakura.webp" width="100px" alt="Banner">
+    <img src="sakura.webp" width="350px" alt="Banner">
   </a>
 </p>
 
